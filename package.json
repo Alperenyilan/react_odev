@@ -1,0 +1,17 @@
+{
+  "name": "react-giris-odev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Alperen",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10",
+    "slugify": "^1.6.5"
+  }
+}
